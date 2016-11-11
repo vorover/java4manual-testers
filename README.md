@@ -1,6 +1,6 @@
 # Starting with Java Code for Manual Testers
 36 hrs.
-
+1
 ## 1. Java App structure (2hr)
 - Class and its responsibility 
 - Method and its intention 
